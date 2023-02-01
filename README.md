@@ -1,2 +1,2 @@
 # test
-test repo
+test repo for understanding basic commands in git.
