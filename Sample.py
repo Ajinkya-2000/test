@@ -1,1 +1,4 @@
-print('This is an sample code')
+# Lets change the code
+
+n = input("Enter your name :")
+print(n)
