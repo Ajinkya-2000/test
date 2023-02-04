@@ -10,3 +10,6 @@ if n1 % 2 == 0:
     print("Even Number")
 else:
     print("Odd Number")
+
+n2 = int(input("Enter your Salary :"))
+print("Salary of ",n ," is ",n2)
